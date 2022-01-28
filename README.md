@@ -1,5 +1,3 @@
-# https-github.com-reklamalinir-freeadultiptv-free-adult-iptv-links
-My-Adult-iptv
 # Free Adult IPTV Links
 
 Playlist: http://cdn.adultiptv.net/lists/all.m3u8
